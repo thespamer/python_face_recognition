@@ -5,4 +5,8 @@ Real-time face recognition project with OpenCV and Python
 <br>
 <p><img src="https://github.com/Mjrovai/OpenCV-Face-Recognition/blob/master/FaceRecogBlock.png?raw=true"></p>
 <br>
+<p><img src="results/result2.jpeg"</p>
+  <br>
 <p><img src="results/facereg1.jpeg"</p>
+<br>
+
